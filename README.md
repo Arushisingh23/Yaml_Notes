@@ -6,6 +6,9 @@ YAML Ain't Markup Language (YAML) is a data serialization language that is consi
 Benifits of YAML:
 
 Simple and easy to read
+
 Nice and Strict Syntax
+
 Most Languages use it
+
 More powerful when representing complex data
